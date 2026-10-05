@@ -83,6 +83,32 @@
 
 ###
 
+# Luis Lenin Acevedo — Senior Software Engineer
+**Angular · React/Next.js · TypeScript · Node.js · .NET · AWS/GCP**  
+Mexico City (CST) · Fluent English · Open to remote full-time & contract
+[Resume](https://cv-lenin-acevedo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/luis-lenin-acevedo-ortiz-249344203/)
+---
+### About
+Senior software engineer with production delivery for **airline**, **fintech/retail**, and **U.S. clients**.  
+I ship full-stack web apps, APIs, and cloud deployments — and I’ve led technical delivery (Scrum, architecture, SSO/integrations).
+### Recent highlights
+- **Resultant USA** — Angular 16, Next.js, React, .NET Core 8, Google Cloud; daily English with U.S. teams  
+- **Aeroméxico (GoNet)** — CUSS airport kiosk frontend; REST migrations & seat-selection APIs  
+- **Grupo Salinas** — Technical Lead: Okta/OAuth2/SAML, APIGEE, AWS, Angular + React Native  
+### Stack
+| Frontend | Backend | Cloud / DevOps |
+|---|---|---|
+| Angular 14–16 | Node.js / Express | AWS (EC2, S3, RDS, CloudFront) |
+| React / Next.js | .NET Core 8 / C# | GCP (Cloud Run, Cloud SQL, BigQuery) |
+| TypeScript | Python / Flask | Docker, CI/CD |
+| Tailwind / Angular Material | SQL Server, PostgreSQL | Swagger / REST |
+### Status
+🟢 **Available now** — 100% remote preferred (CST overlap with U.S. teams)
+---
+### Contact
+- Email: `lenin.acevedo999@hotmail.com` *(update when you switch to Gmail)*
+- Resume: https://cv-lenin-acevedo.vercel.app/
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/DrustBowser/DrustBowser/output/snake.svg" alt="Snake animation" />
